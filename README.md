@@ -16,11 +16,6 @@ Columns
 - summary - summary of the review (description).
 - unixReviewTime - unix timestamp.
 
-Acknowledgements
-This dataset is taken from Amazon product data, Julian McAuley, UCSD website. http://jmcauley.ucsd.edu/data/amazon/
-
-License to the data files belong to them.
-
 Inspiration
 - Sentiment analysis on reviews.
 - Understanding how people rate usefulness of a review/ What factors influence helpfulness of a review.
